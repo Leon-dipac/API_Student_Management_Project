@@ -1,4 +1,4 @@
-/* This tutorial is done with the help of a version control system known as Git.
+/* This tutorial is done with the help of a version control system known as Git and Github.
    Link: https://www.youtube.com/watch?v=uUzRMOCBorg
 
  Project Link :
